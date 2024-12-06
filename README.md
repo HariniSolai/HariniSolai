@@ -8,5 +8,7 @@ This passion for the cycle of learning and teaching is what compels me to be a T
 
 Skills
 Programming Languages: Python(proficient), C++(Proficient), C(Proficient) JavaScript/HTML/CSS(Intermediate), and Java(Intermediate)
+
 Systems: IntelliJ, VSCode, Git, GitHub, CLion, WEBStorm and PYCharm
+
 Coursework:Software Design, Systems Programming, Data Structures, Machine Organization, Programming Practicum, Mathematical Foundations of Computing, Calculus 1-3, Program Design
