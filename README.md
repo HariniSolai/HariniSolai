@@ -6,5 +6,7 @@ I am passionate about computer science, learning and teaching! I first took a CS
 
 This passion for the cycle of learning and teaching is what compels me to be a Teaching Assistant and Student Mentor. I hope to share my love for computer science, by learning with and guiding others in these positions. 
 
+Skills
 Programming Languages: Python(proficient), C++(Proficient), C(Proficient) JavaScript/HTML/CSS(Intermediate), and Java(Intermediate)
-Tech Skills: IntelliJ, VSCode, Git, GitHub, CLion, WEBStorm and PYCharm
+Systems: IntelliJ, VSCode, Git, GitHub, CLion, WEBStorm and PYCharm
+Coursework:Software Design, Systems Programming, Data Structures, Machine Organization, Programming Practicum, Mathematical Foundations of Computing, Calculus 1-3, Program Design
